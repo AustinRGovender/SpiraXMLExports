@@ -1,0 +1,254 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8462</incident_id>
+    <IncidentName>[Smoke Testing][Prelim Supplier] - Error received after executing job EAI - Process DB Process Instances</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8463</incident_id>
+    <IncidentName>[Supplier Enablement][Smoke Testing][Prelim Supplier] - Error received after executing job EAI - Process DB Process Instances - Copy</IncidentName>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8464</incident_id>
+    <IncidentName>ERP_APPROVED type is not showing after running schedule - Message not triggered to EAI when running EAI Schedule</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8470</incident_id>
+    <IncidentName>Mandatory fields on mapping document are blank on SUPPLIER_ACTIVATED </IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8471</incident_id>
+    <IncidentName>WorkflowStatus Tag is not in payload but shows as mandatory field on Mapping document</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8472</incident_id>
+    <IncidentName>New insert process instance created on EAI after supplier inserted successfully</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8473</incident_id>
+    <IncidentName>CLOB error thrown in logs when POSTing a new supplier</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8474</incident_id>
+    <IncidentName>Supplier [Status] fields in EAI are not updated as supplier is processed in the various consuming systems</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8475</incident_id>
+    <IncidentName>Multiple fields in SupplierHistory table are empty or null but require their values to be updated as the supplier is processed</IncidentName>
+    <SEVERITY_ID>615</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8476</incident_id>
+    <IncidentName>FinERP xsl not extracting tax code and vat country code</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8477</incident_id>
+    <IncidentName>Updates to the ON HOLD STATUS in D365 does not change the isActive and AllowOrderCreation field in RW dbo.Supplier</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8480</incident_id>
+    <IncidentName>New update process instance created on EAI after supplier update is triggered</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8481</incident_id>
+    <IncidentName>[PrelimSupplier] - OriginCountry is sent as full qualifying country description but we require ISO Codes</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8482</incident_id>
+    <IncidentName>Valid Date not being set to the date when the supplier is onboarded</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8483</incident_id>
+    <IncidentName>SrcSystem field in ProcessInstanceHistory is not being updated</IncidentName>
+    <SEVERITY_ID>615</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8484</incident_id>
+    <IncidentName>Multiple fields in Supplier table are empty or null but require their values to be updated as the supplier is processed </IncidentName>
+    <SEVERITY_ID>615</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8489</incident_id>
+    <IncidentName>No validation on ProfileStatus field in PrelimSupplier payload</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8490</incident_id>
+    <IncidentName>Updates are not based on priority - Financial vs non financial</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8491</incident_id>
+    <IncidentName>SupplierChainCode validation only checks for an empty string but requires a value in RW</IncidentName>
+    <SEVERITY_ID>615</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8492</incident_id>
+    <IncidentName>MesssageID field in EAI tables is not being used or updated</IncidentName>
+    <SEVERITY_ID>616</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8494</incident_id>
+    <IncidentName>SupplierStatus payload is posting SupplierFinancialChainCode instead of SupplierFinancialCode</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8498</incident_id>
+    <IncidentName>[D365 Integration] - XSL has incorrect namespace therefore not transforming the payload into a form acceptable by D365</IncidentName>
+    <SEVERITY_ID>615</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8499</incident_id>
+    <IncidentName>[D365 - EAI Integration] - D365 Outbound XSL transforms the fields to an incorrect structure therefore not interpratable by EAI</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8500</incident_id>
+    <IncidentName>[D365 - EAI] - EnterpriseTypes XSD missing on WSO2</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8501</incident_id>
+    <IncidentName>[D365 - EAI] - FinancialSupplierOutFinERP XSD not deployed to WSO2 UAT</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8502</incident_id>
+    <IncidentName>[D365 - EAI] - ProcessInstance moved to ERP Ready status without running the job</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8503</incident_id>
+    <IncidentName>DAXFinancialPrelimSupplierInSeq InFinErp XSD missing in sequence</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8506</incident_id>
+    <IncidentName>ERP_APPROVED type is not showing after running schedule - Message not triggered to EAI when running EAI Schedule - Copy</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8507</incident_id>
+    <IncidentName>Mandatory fields on mapping document are blank on SUPPLIER_ACTIVATED  - Copy</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8508</incident_id>
+    <IncidentName>WorkflowStatus Tag is not in payload but shows as mandatory field on Mapping document - Copy</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8510</incident_id>
+    <IncidentName>[EAI - RW] - Validation in SourceFactoryStatus does not match validation for ProfileStatus and general agreement on SourceFactoryStatus values</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8516</incident_id>
+    <IncidentName>Supplier History and Supplier tables - Insert status is set to Approved, updated also set to approved</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8517</incident_id>
+    <IncidentName>Supplier and SupplierHistory - FINERP and FINERPStatus are not being set to pending when update triggered from Adjuno</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8518</incident_id>
+    <IncidentName>ERPStatus is set for Updates only not inserts</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8519</incident_id>
+    <IncidentName>Updates on the ProcessCode Column set to Suppler SUPP_ADJ_UPDATE_ALL because Field Scope table is set to Update Profile Status on all consuming systems.</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8520</incident_id>
+    <IncidentName>No fields besides ProfileStatus are being updated when an update is received from Adjuno</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8521</incident_id>
+    <IncidentName>Inconsistency - Approved wording</IncidentName>
+    <SEVERITY_ID>616</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8526</incident_id>
+    <IncidentName>Update is not successful for fields that are initially captured as an empty string</IncidentName>
+    <SEVERITY_ID>615</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8530</incident_id>
+    <IncidentName>BankAccountNo is named BankAccountNumber in FieldScope table which causes update to fail</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8531</incident_id>
+    <IncidentName>ProfileStatus FieldType is set to DATA instead of KEY which causes update to be broadcasted to all consuming systems</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8532</incident_id>
+    <IncidentName>BankAccountNumber is set to FinERPStatus = NO in FieldScope table which does not change the ON HOLD STATUS for the supplier if parsed in an update</IncidentName>
+    <SEVERITY_ID>614</SEVERITY_ID>
+  </Incident>
+  <Incident>
+    <ProjectName>Supplier Enablement</ProjectName>
+    <incident_id>8544</incident_id>
+    <IncidentName>SupplierFinancialCode and FiNERPCode on the Supplier and SupplierHistory tables in EAI store the same values</IncidentName>
+    <SEVERITY_ID>615</SEVERITY_ID>
+  </Incident>
+</DocumentElement>

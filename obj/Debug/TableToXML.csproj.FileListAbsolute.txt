@@ -1,0 +1,6 @@
+C:\Users\augov\Desktop\Dev Stuff\TableToXML\bin\Debug\TableToXML.exe.config
+C:\Users\augov\Desktop\Dev Stuff\TableToXML\bin\Debug\TableToXML.exe
+C:\Users\augov\Desktop\Dev Stuff\TableToXML\bin\Debug\TableToXML.pdb
+C:\Users\augov\Desktop\Dev Stuff\TableToXML\obj\Debug\TableToXML.csprojAssemblyReference.cache
+C:\Users\augov\Desktop\Dev Stuff\TableToXML\obj\Debug\TableToXML.exe
+C:\Users\augov\Desktop\Dev Stuff\TableToXML\obj\Debug\TableToXML.pdb

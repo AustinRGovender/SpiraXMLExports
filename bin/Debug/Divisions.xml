@@ -1,0 +1,1776 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Division>
+    <DivisionId>1</DivisionId>
+    <SupplierId>2028</SupplierId>
+    <SupplierCode>CHE0020     </SupplierCode>
+    <SupplierDesc>CHEER SAGAR</SupplierDesc>
+    <PhAddress1>E-194INDUSTRIAL AREA,MANSAR VAR,JAIPUR-302020 INDI</PhAddress1>
+    <PhAddress2>JAIPUR</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>E-194INDUSTRIAL AREA,MANSAR VAR,JAIPUR-302020 INDI</PoAddress1>
+    <PoAddress2>JAIPUR</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>ARNAV PODDAR</ContactPerson>
+    <TelNumber>00911414441111</TelNumber>
+    <CellNumber>0091982901567</CellNumber>
+    <FaxNumber />
+    <OldCode>102028    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>253</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>160</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-03-05T15:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-03-05T12:30:00+02:00</CreateDate>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>1</DivisionId>
+    <SupplierId>2029</SupplierId>
+    <SupplierCode>DCS0005     </SupplierCode>
+    <SupplierDesc>DCS CLOTHING MANUFACTURERS CC</SupplierDesc>
+    <PhAddress1>112STAMFORDHILL ROAD,WHEELERHOUSE SUITE 108</PhAddress1>
+    <PhAddress2>Durban</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode>4001</PhAreaCode>
+    <PoAddress1>112STAMFORDHILL ROAD,WHEELERHOUSE SUITE 108</PoAddress1>
+    <PoAddress2>Durban</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode>4001</PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>D SINGARAM</ContactPerson>
+    <TelNumber>0318278969</TelNumber>
+    <CellNumber>0843334577</CellNumber>
+    <FaxNumber />
+    <OldCode>102029    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>31</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>1</VatCodeId>
+    <SupplierCountryId>2</SupplierCountryId>
+    <CurrencyId>4</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-03-05T15:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-03-05T12:30:00+02:00</CreateDate>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>4</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>false</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>1</DivisionId>
+    <SupplierId>2030</SupplierId>
+    <SupplierCode>RIC0006     </SupplierCode>
+    <SupplierDesc>RICH COTTON LIMITED</SupplierDesc>
+    <PhAddress1>HOUSE560, ROAD8, AVENUE3,DOHS MIRPUR,DHAKA1216,BAN</PhAddress1>
+    <PhAddress2>DHAKA</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>HOUSE560, ROAD8, AVENUE3,DOHS MIRPUR,DHAKA1216,BAN</PoAddress1>
+    <PoAddress2>DHAKA</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>JAKE</ContactPerson>
+    <TelNumber>88000248806291</TelNumber>
+    <CellNumber />
+    <FaxNumber />
+    <OldCode>102030    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>246</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>76</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-03-05T15:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-03-05T12:30:00+02:00</CreateDate>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>1</DivisionId>
+    <SupplierId>2031</SupplierId>
+    <SupplierCode>TOP0011     </SupplierCode>
+    <SupplierDesc>TOP EASTERN DESIGNERS LTD</SupplierDesc>
+    <PhAddress1>HOUSE16,ROAD 13,SECTOR 03,UTTARA MODEL TOWN,DHAKA </PhAddress1>
+    <PhAddress2>DHAKA</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>HOUSE16,ROAD 13,SECTOR 03,UTTARA MODEL TOWN,DHAKA </PoAddress1>
+    <PoAddress2>DHAKA</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>PAUL PRODIP</ContactPerson>
+    <TelNumber>1880255093619</TelNumber>
+    <CellNumber>8801713006202</CellNumber>
+    <FaxNumber />
+    <OldCode>102031    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>246</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>76</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-03-05T15:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-03-05T12:30:00+02:00</CreateDate>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>1</DivisionId>
+    <SupplierId>2025</SupplierId>
+    <SupplierCode>ANG0004     </SupplierCode>
+    <SupplierDesc>ANGELS OVERSEAS</SupplierDesc>
+    <PhAddress1>D73,2ND FLOOR SECTOR-2, NOIDA 201301,</PhAddress1>
+    <PhAddress2>INDIA</PhAddress2>
+    <PhAddress3>INDIA</PhAddress3>
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>D73,2ND FLOOR SECTOR-2, NOIDA 201301,</PoAddress1>
+    <PoAddress2>INDIA</PoAddress2>
+    <PoAddress3>INDIA</PoAddress3>
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>ALKA GUPTA</ContactPerson>
+    <TelNumber>91 120 4325054</TelNumber>
+    <CellNumber>91 9873390038</CellNumber>
+    <FaxNumber />
+    <OldCode>102025    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>253</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>160</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-03-05T11:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-03-05T11:30:00+02:00</CreateDate>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>1</DivisionId>
+    <SupplierId>2026</SupplierId>
+    <SupplierCode>ORI0009     </SupplierCode>
+    <SupplierDesc>ORIENT TECHTEX SOLUTIONS PTE LTD</SupplierDesc>
+    <PhAddress1>113 GUNDECHA INDUS. COMPL. AKURLI ROAD,KANDIVALI-E</PhAddress1>
+    <PhAddress2>MUMBAI</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>113 GUNDECHA INDUS. COMPL. AKURLI ROAD,KANDIVALI-E</PoAddress1>
+    <PoAddress2>MUMBAI</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>RAVI TIWARI</ContactPerson>
+    <TelNumber>98119163338</TelNumber>
+    <CellNumber>9819163338</CellNumber>
+    <FaxNumber />
+    <OldCode>102026    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>253</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>160</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-03-05T15:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-03-05T11:30:00+02:00</CreateDate>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>1</DivisionId>
+    <SupplierId>2023</SupplierId>
+    <SupplierCode>CHO0001     </SupplierCode>
+    <SupplierDesc>CHOUDHARY FASHIONS</SupplierDesc>
+    <PhAddress1>PLOT NO A-58,ROADNO-1, MIDC,ANDHERI(EAST),MUMBAI-4</PhAddress1>
+    <PhAddress2>MUMBAI</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>PLOT NO A-58,ROADNO-1, MIDC,ANDHERI(EAST),MUMBAI-4</PoAddress1>
+    <PoAddress2>MUMBAI</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>SANJAY CHOUDHARY</ContactPerson>
+    <TelNumber>0141 4913975</TelNumber>
+    <CellNumber />
+    <FaxNumber />
+    <OldCode>102023    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>253</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>160</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-03-03T10:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-03-03T10:30:00+02:00</CreateDate>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>1</DivisionId>
+    <SupplierId>2021</SupplierId>
+    <SupplierCode>HON0009     </SupplierCode>
+    <SupplierDesc>HONG KONG EVER RICH LIMITED</SupplierDesc>
+    <PhAddress1>UNIT602,6F,UNICORN TRADE CENTRE,127-131 DES VOEUX </PhAddress1>
+    <PhAddress2>HONG KONG</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>UNIT602,6F,UNICORN TRADE CENTRE,127-131 DES VOEUX </PoAddress1>
+    <PoAddress2>HONG KONG</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>HUANG WEN</ContactPerson>
+    <TelNumber>86 75588264606</TelNumber>
+    <CellNumber />
+    <FaxNumber />
+    <OldCode>102021    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>253</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>157</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-03-03T10:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-03-03T09:30:00+02:00</CreateDate>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>4</DivisionId>
+    <SupplierId>842</SupplierId>
+    <SupplierCode>HON0003     </SupplierCode>
+    <SupplierDesc>HONG KONG EVER RICH LIMITED</SupplierDesc>
+    <PhAddress1>UNT 602 6/F,UNICORN TRADE CNT,127-131 DES VOEUX RD</PhAddress1>
+    <PhAddress2>HONG KONG</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>UNT 602 6/F,UNICORN TRADE CNT,127-131 DES VOEUX RD</PoAddress1>
+    <PoAddress2>HONG KONG</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>WENDY</ContactPerson>
+    <TelNumber>86-75588264606</TelNumber>
+    <CellNumber />
+    <FaxNumber />
+    <EmailAddress>sales2@everrich.ltd;zarina@wavelengths.co.za</EmailAddress>
+    <OldCode>400842    </OldCode>
+    <KimbalLeadDays>30</KimbalLeadDays>
+    <OrderSupplierTermsId>253</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>157</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <PrinterSupplierId>328</PrinterSupplierId>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>true</IsSwingTagPrintedExternally>
+    <AppointmentGroupEMail>sales2@everrich.ltd;</AppointmentGroupEMail>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>WebUser</ModifyUser>
+    <ModifyStation>DOGMATIX</ModifyStation>
+    <ModifyDate>2020-03-06T10:44:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-02-28T08:30:00+02:00</CreateDate>
+    <SwingTagInvoiceEmailAddress>acc@everrich.ltd;</SwingTagInvoiceEmailAddress>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>60</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <SupplierGroupId>2827</SupplierGroupId>
+    <InternationalSwingtagPrinter>true</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>true</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>1</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>true</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <SupplierDeliveryMethodId>1</SupplierDeliveryMethodId>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <SupplierResourceTypeId>7</SupplierResourceTypeId>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>1</DivisionId>
+    <SupplierId>2019</SupplierId>
+    <SupplierCode>JAD0004     </SupplierCode>
+    <SupplierDesc>JADE LEAD GLOBAL LIMITED</SupplierDesc>
+    <PhAddress1>22FLOOR, CHUNG KUNG ROAD.TAI CHUNG,TAIWAN</PhAddress1>
+    <PhAddress2>TAIWAN</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>22FLOOR, CHUNG KUNG ROAD.TAI CHUNG,TAIWAN</PoAddress1>
+    <PoAddress2>TAIWAN</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>CHAN WAIMAN</ContactPerson>
+    <TelNumber>011 7633033</TelNumber>
+    <CellNumber>082 8511824</CellNumber>
+    <FaxNumber />
+    <OldCode>102019    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>253</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>271</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-02-24T11:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-02-24T10:30:00+02:00</CreateDate>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>2</DivisionId>
+    <SupplierId>1871</SupplierId>
+    <SupplierCode>DEJ0001     </SupplierCode>
+    <SupplierDesc>DEJAY DISTRIBUTORS PTY LTD</SupplierDesc>
+    <PhAddress1>16 SALISBURY ROAD</PhAddress1>
+    <PhAddress2>MORNINGSIDE</PhAddress2>
+    <PhAddress3>Durban</PhAddress3>
+    <PhAreaCode>4001</PhAreaCode>
+    <PoAddress1>PO BOX 1812</PoAddress1>
+    <PoAddress2>NEW GERMANY</PoAddress2>
+    <PoAddress3>Pinetown</PoAddress3>
+    <PoAreaCode>3620</PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>ACCOUNTS</ContactPerson>
+    <TelNumber>031-3039605</TelNumber>
+    <CellNumber />
+    <FaxNumber>031-3125159</FaxNumber>
+    <EmailAddress>wendyb@dejay.co.za</EmailAddress>
+    <OldCode>201871    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>31</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>1</VatCodeId>
+    <SupplierCountryId>2</SupplierCountryId>
+    <CurrencyId>4</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <AppointmentGroupEMail>wendyb@dejay.co.za</AppointmentGroupEMail>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>anduk</ModifyUser>
+    <ModifyStation>ANDUK</ModifyStation>
+    <ModifyDate>2020-02-24T16:00:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-02-24T10:30:00+02:00</CreateDate>
+    <SwingTagInvoiceEmailAddress>pmoodley@dejay.co.za</SwingTagInvoiceEmailAddress>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>4</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>false</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>4</DivisionId>
+    <SupplierId>840</SupplierId>
+    <SupplierCode>ASP0001     </SupplierCode>
+    <SupplierDesc>ASPREY HOLDINGS PTY LTD</SupplierDesc>
+    <PhAddress1>8 STAAL STREET, KYA SANDS</PhAddress1>
+    <PhAddress2>Johannesburg</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode>2163</PhAreaCode>
+    <PoAddress1>POSTNET SUITE, PRIVATE BAG X033,RIVONIA</PoAddress1>
+    <PoAddress2>Johannesburg</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode>2128</PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>JULIA</ContactPerson>
+    <TelNumber>011-4628771</TelNumber>
+    <CellNumber />
+    <FaxNumber />
+    <EmailAddress>philip@asprey.co.za</EmailAddress>
+    <OldCode>400840    </OldCode>
+    <KimbalLeadDays>30</KimbalLeadDays>
+    <OrderSupplierTermsId>31</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>1</VatCodeId>
+    <SupplierCountryId>2</SupplierCountryId>
+    <CurrencyId>4</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <PrinterSupplierId>328</PrinterSupplierId>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>true</IsSwingTagPrintedExternally>
+    <AppointmentGroupEMail>rebecca@asprey.co.za</AppointmentGroupEMail>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-02-27T13:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-02-21T10:30:00+02:00</CreateDate>
+    <SwingTagInvoiceEmailAddress>rebecca@asprey.co.za</SwingTagInvoiceEmailAddress>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <VatRegistrationNumber>4840262028</VatRegistrationNumber>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>60</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <SupplierGroupId>2825</SupplierGroupId>
+    <InternationalSwingtagPrinter>true</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>true</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>true</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>1</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>false</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>true</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <SupplierDeliveryMethodId>1</SupplierDeliveryMethodId>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <SupplierResourceTypeId>4</SupplierResourceTypeId>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>7</DivisionId>
+    <SupplierId>1150</SupplierId>
+    <SupplierCode>CCL0004     </SupplierCode>
+    <SupplierDesc>CC LEATHER CC</SupplierDesc>
+    <PhAddress1>33 WILLOWTON ROAD </PhAddress1>
+    <PhAddress2>PIETERMARITZBURG</PhAddress2>
+    <PhAddress3>Pietermaritzburg</PhAddress3>
+    <PhAreaCode>3201</PhAreaCode>
+    <PoAddress1>12 MBUBU ROAD </PoAddress1>
+    <PoAddress2>PIETERMARITZBURG</PoAddress2>
+    <PoAddress3>Pietermaritzburg</PoAddress3>
+    <PoAreaCode>3201</PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>Tom Bass</ContactPerson>
+    <TelNumber />
+    <CellNumber>082 8744950</CellNumber>
+    <FaxNumber />
+    <EmailAddress>rbassage@lantic.net</EmailAddress>
+    <OldCode>701150    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>31</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>9</VatCodeId>
+    <SupplierCountryId>2</SupplierCountryId>
+    <CurrencyId>4</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <AppointmentGroupEMail>tombass@lantic.net</AppointmentGroupEMail>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>juche</ModifyUser>
+    <ModifyStation>JUCHE-LAP</ModifyStation>
+    <ModifyDate>2020-02-20T12:49:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-02-20T11:30:00+02:00</CreateDate>
+    <SwingTagInvoiceEmailAddress>cccc@lantic.net</SwingTagInvoiceEmailAddress>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>4</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>false</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>7</DivisionId>
+    <SupplierId>1148</SupplierId>
+    <SupplierCode>NIC0001     </SupplierCode>
+    <SupplierDesc>NICHOLAS PRODUCTS CC</SupplierDesc>
+    <PhAddress1>140 HIGH RIDGE ROAD </PhAddress1>
+    <PhAddress2>DURBAN NORTH</PhAddress2>
+    <PhAddress3>Durban</PhAddress3>
+    <PhAreaCode>4051</PhAreaCode>
+    <PoAddress1>140 HIGH RIDGE ROAD </PoAddress1>
+    <PoAddress2>DURBAN NORTH</PoAddress2>
+    <PoAddress3>Durban</PoAddress3>
+    <PoAreaCode>4051</PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>Nicholas Shaw</ContactPerson>
+    <TelNumber>082 6337331</TelNumber>
+    <CellNumber />
+    <FaxNumber />
+    <EmailAddress>nicholas@nicholasproducts.com</EmailAddress>
+    <OldCode>701148    </OldCode>
+    <KimbalLeadDays>30</KimbalLeadDays>
+    <OrderSupplierTermsId>31</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>1</VatCodeId>
+    <SupplierCountryId>2</SupplierCountryId>
+    <CurrencyId>4</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <PrinterSupplierId>93</PrinterSupplierId>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>true</IsSwingTagPrintedExternally>
+    <AppointmentGroupEMail>nicholas@nicholasproducts.com</AppointmentGroupEMail>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-03-02T10:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-02-18T12:30:00+02:00</CreateDate>
+    <SwingTagInvoiceEmailAddress>nicholas@nicholasproducts.com</SwingTagInvoiceEmailAddress>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>60</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <SupplierGroupId>2244</SupplierGroupId>
+    <InternationalSwingtagPrinter>true</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>true</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>4</ProvinceId>
+    <SwingTagBillingTypeId>1</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>false</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>true</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <SupplierDeliveryMethodId>1</SupplierDeliveryMethodId>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <SupplierResourceTypeId>4</SupplierResourceTypeId>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>2</DivisionId>
+    <SupplierId>1869</SupplierId>
+    <SupplierCode>TEX0003     </SupplierCode>
+    <SupplierDesc>TEX.ATHENEA,S.L.</SupplierDesc>
+    <PhAddress1>CTRA.CAUDETE,KM1 03400 VILLENA-ALICANTE -SPAIN</PhAddress1>
+    <PhAddress2>ALICANTE</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>CTRA.CAUDETE,KM1 03400 VILLENA-ALICANTE -SPAIN</PoAddress1>
+    <PoAddress2>ALICANTE</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>ACCOUNTS</ContactPerson>
+    <TelNumber>34 96 581 5003</TelNumber>
+    <CellNumber />
+    <FaxNumber>34 96 581 4456</FaxNumber>
+    <EmailAddress>c.zapater@texathenea.es</EmailAddress>
+    <OldCode>201869    </OldCode>
+    <KimbalLeadDays>30</KimbalLeadDays>
+    <OrderSupplierTermsId>253</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>258</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <PrinterSupplierId>936</PrinterSupplierId>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>true</IsSwingTagPrintedExternally>
+    <AppointmentGroupEMail>c.zapater@texathenea.es</AppointmentGroupEMail>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-03-05T11:32:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-02-17T16:30:00+02:00</CreateDate>
+    <SwingTagInvoiceEmailAddress>c.zapater@texathenea.es</SwingTagInvoiceEmailAddress>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>60</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <SupplierGroupId>2826</SupplierGroupId>
+    <InternationalSwingtagPrinter>true</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>true</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>1</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>true</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <SupplierDeliveryMethodId>1</SupplierDeliveryMethodId>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <SupplierResourceTypeId>6</SupplierResourceTypeId>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>2</DivisionId>
+    <SupplierId>1867</SupplierId>
+    <SupplierCode>BHA0001     </SupplierCode>
+    <SupplierDesc>BHARAT OVERSEAS CORPORATION</SupplierDesc>
+    <PhAddress1>PLOT NO.2,SECTOR-29,PART-1</PhAddress1>
+    <PhAddress2>HUDA,INDUSTRIAL AREA,G.T.ROAD,PANIPAT-132103INDI</PhAddress2>
+    <PhAddress3>PANIPAT</PhAddress3>
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>PLOT NO.2,SECTOR-29,PART-1</PoAddress1>
+    <PoAddress2>HUDA,INDUSTRIAL AREA,G.T.ROAD,PANIPAT-132103INDI</PoAddress2>
+    <PoAddress3>PANIPAT</PoAddress3>
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>ACCOUNTS</ContactPerson>
+    <TelNumber>91-180-2662911</TelNumber>
+    <CellNumber>98121121586</CellNumber>
+    <FaxNumber />
+    <EmailAddress>rakesh@concpt.com</EmailAddress>
+    <OldCode>201867    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>253</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>160</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <AppointmentGroupEMail>accounts@concpt.com</AppointmentGroupEMail>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>anduk</ModifyUser>
+    <ModifyStation>ANDUK</ModifyStation>
+    <ModifyDate>2020-02-17T15:17:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-02-17T12:30:00+02:00</CreateDate>
+    <SwingTagInvoiceEmailAddress>softlines@concpt.com</SwingTagInvoiceEmailAddress>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>1</DivisionId>
+    <SupplierId>2017</SupplierId>
+    <SupplierCode>YIW0010     </SupplierCode>
+    <SupplierDesc>YIWU RONGYU JEWELRY CO LTD</SupplierDesc>
+    <PhAddress1>4 FLOOR,2 BUILDING NO.1569 LIU QING ROAD,YIWU CITY</PhAddress1>
+    <PhAddress2>CHINA</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>4 FLOOR,2 BUILDING NO.1569 LIU QING ROAD,YIWU CITY</PoAddress1>
+    <PoAddress2>CHINA</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>SHAO MARONG</ContactPerson>
+    <TelNumber>057 85215891</TelNumber>
+    <CellNumber>15606797580</CellNumber>
+    <FaxNumber>05798525893</FaxNumber>
+    <OldCode>102017    </OldCode>
+    <KimbalLeadDays>0</KimbalLeadDays>
+    <OrderSupplierTermsId>253</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>105</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>false</IsSwingTagPrintedExternally>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-02-13T15:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-02-13T15:30:00+02:00</CreateDate>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>0</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>false</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>false</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>1</DivisionId>
+    <SupplierId>2015</SupplierId>
+    <SupplierCode>HEA0007     </SupplierCode>
+    <SupplierDesc>HEADWEAR 24(PTY)LTD</SupplierDesc>
+    <PhAddress1>P.O.BOX 423,KLOOF</PhAddress1>
+    <PhAddress2>Kloof</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode>3640</PhAreaCode>
+    <PoAddress1>P.O.BOX 423,KLOOF</PoAddress1>
+    <PoAddress2>Kloof</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode>3640</PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>RYAN</ContactPerson>
+    <TelNumber>0315747020</TelNumber>
+    <CellNumber>0833010921</CellNumber>
+    <FaxNumber />
+    <OldCode>102015    </OldCode>
+    <KimbalLeadDays>30</KimbalLeadDays>
+    <OrderSupplierTermsId>31</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>1</VatCodeId>
+    <SupplierCountryId>2</SupplierCountryId>
+    <CurrencyId>4</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <PrinterSupplierId>745</PrinterSupplierId>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>true</IsSwingTagPrintedExternally>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>grswa</ModifyUser>
+    <ModifyStation>GRSWA</ModifyStation>
+    <ModifyDate>2020-02-26T10:49:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-02-12T13:30:00+02:00</CreateDate>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>60</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <SupplierGroupId>2824</SupplierGroupId>
+    <InternationalSwingtagPrinter>false</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>true</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>true</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>4</ProvinceId>
+    <SwingTagBillingTypeId>1</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>false</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>true</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <SupplierDeliveryMethodId>1</SupplierDeliveryMethodId>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <SupplierResourceTypeId>4</SupplierResourceTypeId>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>1</DivisionId>
+    <SupplierId>2013</SupplierId>
+    <SupplierCode>MAX0010     </SupplierCode>
+    <SupplierDesc>MAXIMA FASHION EXPORTS PVT LTD</SupplierDesc>
+    <PhAddress1>NEAR CHANDRU-TAL MATH,BHEDKIHAL-CHIKKODI ROAD,NEJ </PhAddress1>
+    <PhAddress2>INDIA</PhAddress2>
+    <PhAddress3 />
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>NEAR CHANDRU-TAL MATH,BHEDKIHAL-CHIKKODI ROAD,NEJ </PoAddress1>
+    <PoAddress2>INDIA</PoAddress2>
+    <PoAddress3 />
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>KALPANA SHARMA</ContactPerson>
+    <TelNumber>9167348752</TelNumber>
+    <CellNumber>9820022207</CellNumber>
+    <FaxNumber>022 28306487</FaxNumber>
+    <OldCode>102013    </OldCode>
+    <KimbalLeadDays>30</KimbalLeadDays>
+    <OrderSupplierTermsId>246</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>160</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <PrinterSupplierId>898</PrinterSupplierId>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>true</IsSwingTagPrintedExternally>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>kamas</ModifyUser>
+    <ModifyStation>KAMAS</ModifyStation>
+    <ModifyDate>2020-02-25T15:39:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-02-05T17:30:00+02:00</CreateDate>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>60</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <SupplierGroupId>2823</SupplierGroupId>
+    <InternationalSwingtagPrinter>true</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>true</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>true</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>2</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>true</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <SupplierDeliveryMethodId>1</SupplierDeliveryMethodId>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <SupplierResourceTypeId>6</SupplierResourceTypeId>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+  <Division>
+    <DivisionId>4</DivisionId>
+    <SupplierId>838</SupplierId>
+    <SupplierCode>WOR0004     </SupplierCode>
+    <SupplierDesc>WORLD CLASS APPARELS LTD</SupplierDesc>
+    <PhAddress1>HOTEL AVENUE ,3RD FLR EBENE HSE,33 CYBERCITY</PhAddress1>
+    <PhAddress2 />
+    <PhAddress3 />
+    <PhAreaCode xml:space="preserve"></PhAreaCode>
+    <PoAddress1>HOTEL AVENUE ,3RD FLR EBENE HSE,33 CYBERCITY</PoAddress1>
+    <PoAddress2 />
+    <PoAddress3 />
+    <PoAreaCode xml:space="preserve"></PoAreaCode>
+    <IsForeignSupplier>false</IsForeignSupplier>
+    <IsActive>true</IsActive>
+    <GRVOnOverDelivery>false</GRVOnOverDelivery>
+    <IsInternetEnabled>false</IsInternetEnabled>
+    <PrintsKimbals>false</PrintsKimbals>
+    <KimbalChargeRate>0.0000</KimbalChargeRate>
+    <ReturnCharge>0.0000</ReturnCharge>
+    <SuppAdvertisingPerc>0</SuppAdvertisingPerc>
+    <ContactPerson>ROGER JOHN</ContactPerson>
+    <TelNumber>031-5793750</TelNumber>
+    <CellNumber>0845203292</CellNumber>
+    <FaxNumber>031-5793583</FaxNumber>
+    <EmailAddress>zarina@wavelengths.co.za;vassi@ax-p.co.za;dev@wcamada.com;serge@wcamada.com</EmailAddress>
+    <OldCode>400838    </OldCode>
+    <KimbalLeadDays>30</KimbalLeadDays>
+    <OrderSupplierTermsId>256</OrderSupplierTermsId>
+    <GRVSupplierTermsId>16</GRVSupplierTermsId>
+    <ShowRSP>true</ShowRSP>
+    <ReceivesRoyalties>false</ReceivesRoyalties>
+    <VatCodeCountryId>2</VatCodeCountryId>
+    <VatCodeId>2</VatCodeId>
+    <SupplierCountryId>201</SupplierCountryId>
+    <CurrencyId>2</CurrencyId>
+    <EBizVerifyRSP>false</EBizVerifyRSP>
+    <EBizConfirm>false</EBizConfirm>
+    <PrinterSupplierId>328</PrinterSupplierId>
+    <IsSwingTagSupplier>false</IsSwingTagSupplier>
+    <IsSwingTagPrintedExternally>true</IsSwingTagPrintedExternally>
+    <AppointmentGroupEMail>zarina@wavelengths.co.za;vassi@ax-p.co.za;dev@wcamada.com;serge@wcamada.com</AppointmentGroupEMail>
+    <IsUTIEnabled>false</IsUTIEnabled>
+    <ModifyUser>SQLSA</ModifyUser>
+    <ModifyStation>ASTRONOMIX</ModifyStation>
+    <ModifyDate>2020-02-10T09:30:00+02:00</ModifyDate>
+    <CreateUser>sys</CreateUser>
+    <CreateStation>sys</CreateStation>
+    <CreateDate>2020-01-31T12:30:00+02:00</CreateDate>
+    <SwingTagInvoiceEmailAddress>roger@wavelengths.co.za;vassi@ax-p.co.za;dev@wcamada.com;serge@wcamada.com</SwingTagInvoiceEmailAddress>
+    <IsSwingTagPrintedForImportOrders>true</IsSwingTagPrintedForImportOrders>
+    <isDirectDeliverySupplier>false</isDirectDeliverySupplier>
+    <KimbalLeadDaysImport>60</KimbalLeadDaysImport>
+    <IsSupplierChargedForImportOrdersSwingTag>false</IsSupplierChargedForImportOrdersSwingTag>
+    <IsFragileAuditRequiredOnOrderDelivery>false</IsFragileAuditRequiredOnOrderDelivery>
+    <MinimumOrderQty>0</MinimumOrderQty>
+    <OrderLeadTime>0</OrderLeadTime>
+    <QARequired>true</QARequired>
+    <OrderFrequencyWeeks>2</OrderFrequencyWeeks>
+    <IsCommercialDocumentationRequired>false</IsCommercialDocumentationRequired>
+    <SupplierGroupId>2251</SupplierGroupId>
+    <InternationalSwingtagPrinter>true</InternationalSwingtagPrinter>
+    <IsDepotDeliverySupplier>false</IsDepotDeliverySupplier>
+    <FragileAuditPercentage>1</FragileAuditPercentage>
+    <IsAutoGRVExclude>false</IsAutoGRVExclude>
+    <AuditPercentage>1</AuditPercentage>
+    <PackitEnabled>true</PackitEnabled>
+    <IsFreightForwarder>false</IsFreightForwarder>
+    <IsSecCostsFinchargeVendor>false</IsSecCostsFinchargeVendor>
+    <ProvinceId>1</ProvinceId>
+    <SwingTagBillingTypeId>1</SwingTagBillingTypeId>
+    <PrelimAllocationLeadDays>30</PrelimAllocationLeadDays>
+    <PrelimAllocationLeadDaysImport>60</PrelimAllocationLeadDaysImport>
+    <AllocationLeadDays>14</AllocationLeadDays>
+    <AllocationLeadDaysImport>30</AllocationLeadDaysImport>
+    <IsDirectImportSupplier>true</IsDirectImportSupplier>
+    <ExternalQAAuditInspector>false</ExternalQAAuditInspector>
+    <IsMerchandiseSupplier>true</IsMerchandiseSupplier>
+    <AllowOrderCreation>true</AllowOrderCreation>
+    <IsNumberPlateEnabled>true</IsNumberPlateEnabled>
+    <IsConsolEnabled>false</IsConsolEnabled>
+    <SupplierDeliveryMethodId>1</SupplierDeliveryMethodId>
+    <AutoEmailOrderInvInstrToSecSupp>false</AutoEmailOrderInvInstrToSecSupp>
+    <MaximumPrepackOptions>4</MaximumPrepackOptions>
+    <IsPaperlessReceivingEnabled>true</IsPaperlessReceivingEnabled>
+    <LocalSupplyITFinalization>false</LocalSupplyITFinalization>
+    <IsCrossBorderSupplier>false</IsCrossBorderSupplier>
+    <AllowFlowThroughSolids>false</AllowFlowThroughSolids>
+    <IsCourierCollectionSupplier>false</IsCourierCollectionSupplier>
+    <IsDirectSupplier>false</IsDirectSupplier>
+    <SupplierResourceTypeId>6</SupplierResourceTypeId>
+    <IsMilkRunSupplier>false</IsMilkRunSupplier>
+  </Division>
+</DocumentElement>
