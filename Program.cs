@@ -29,9 +29,9 @@ namespace TableToXML
             try {
                 SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder
                 {
-                    DataSource = @"MRPGSQLDB1\MRPGSQLDB1",
-                    IntegratedSecurity = true,//windows authentication - AD Login --Ballistix does not support SQL Auth
-                    InitialCatalog = "SpiraTest"
+                    DataSource = @"xxx\xxx",
+                    IntegratedSecurity = true,//windows authentication - AD Login 
+                    InitialCatalog = "xxx"
                 };
 
                 using (SqlConnection connection = new SqlConnection(builder.ConnectionString)) {
